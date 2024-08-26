@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oren Vaknin</h1>
-<h3 align="center">A Junior AI Developer</h3>
+<h3 align="center">A Junior software Developer</h3>
 
 - 🔭 I’m currently studying CS at **BGU University**
 
